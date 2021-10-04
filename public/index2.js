@@ -23,7 +23,6 @@ fetch(url)
             statusData.innerHTML = element.status;
             taskStatus.append(statusData);
 
-            
 
             let hr = document.createElement('hr');
 
